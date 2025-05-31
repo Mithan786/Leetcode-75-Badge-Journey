@@ -1,5 +1,6 @@
 #Q-1:Kids With the Greatest Number of Candies?
-  import java.util.*;
+  
+import java.util.*;
 
 class Solution {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
